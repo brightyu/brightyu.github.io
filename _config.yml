@@ -1,6 +1,3 @@
-title: 博客标题
-logo: /assets/img/qrCode.jpg
-description: 这是博客的描述。
-show_downloads: false
-google_analytics:
-theme: jekyll-theme-slate
+title: 智能航空，引领未来
+description: 新篇章，新的开始
+theme: jekyll-theme-minimal
